@@ -3,6 +3,9 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.indentSize": 2,
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "typescript.preferences.importModuleSpecifier": "non-relative",
   "cSpell.words": ["tailwindcss"]
